@@ -1,2 +1,2 @@
 # TypingSpeedApp
-This is a program that counts how fast one types
+This is a program that measures how fast one types
